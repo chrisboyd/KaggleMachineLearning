@@ -1,4 +1,4 @@
-# KaggleMachineLearning
+# Kaggle_Machine_Learning
 Set of courses offered by Kaggle to begin Machine Learning
 
 Introduced to the plan by:
